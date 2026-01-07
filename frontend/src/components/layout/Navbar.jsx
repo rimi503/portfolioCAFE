@@ -26,7 +26,7 @@ const Navbar = () => {
             <div className="relative">
               <div className="absolute inset-0 bg-jha-yellow rounded-full blur opacity-40 group-hover:opacity-60 transition-opacity"></div>
               <img 
-                src="../public/logo.png" 
+                src="../public/Logo.webp" 
                 alt="Mrs. Jha Kitchen" 
                 className="relative h-14 w-auto object-contain transform group-hover:scale-105 transition-transform duration-300" 
               />

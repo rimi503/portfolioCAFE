@@ -9,7 +9,7 @@ const Footer = () => {
         {/* Brand Section */}
         <div className="space-y-4">
           <div className="flex items-center gap-3">
-             <img src="/logo.png" className="w-14 h-14 object-contain bg-jha-cream rounded-full p-1" alt="Logo"/>
+             <img src="../public/Logo.webp" className="w-14 h-14 object-contain bg-jha-cream rounded-full p-1" alt="Logo"/>
              <div>
                 <span className="text-2xl font-serif font-bold block leading-none">Mrs. Jha</span>
                 <span className="text-sm text-jha-yellow font-sans tracking-widest">KITCHEN</span>
