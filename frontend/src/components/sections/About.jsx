@@ -20,7 +20,7 @@ const About = () => {
              
              {/* Chef Image (3D Avatar Placeholder - You can replace this URL) */}
              <img 
-               src="../public/logo.png" 
+               src="./Logo.webp" 
                alt="Mrs. Jha" 
                className="w-56 h-56 object-contain mb-4 drop-shadow-2xl hover:scale-110 transition-transform duration-500"
              />
