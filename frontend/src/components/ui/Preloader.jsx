@@ -59,7 +59,7 @@ const Preloader = ({ onComplete }) => {
     >
       {/* Logo Image */}
       <img
-        src="../public/logo.png"
+        src="./Logo.webp"
         alt="Logo"
         className="w-24 h-24 mb-6 object-contain animate-bounce"
       />
